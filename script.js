@@ -7,7 +7,8 @@ var app = new Vue (
     {
         el : '#root',
         data: {
-            
+            message : "Hello, this is my first approach with VUE!",
+            picture : "img/vue.png"
         }
     }
 );
